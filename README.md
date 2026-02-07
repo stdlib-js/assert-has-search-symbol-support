@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import hasSearchSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-search-symbol-support@deno/mod.js';
+import hasSearchSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-search-symbol-support@v0.1.1-deno/mod.js';
 ```
 
 #### hasSearchSymbolSupport()
@@ -65,7 +65,7 @@ var bool = hasSearchSymbolSupport();
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import hasSearchSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-search-symbol-support@deno/mod.js';
+import hasSearchSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-search-symbol-support@v0.1.1-deno/mod.js';
 
 var bool = hasSearchSymbolSupport();
 if ( bool ) {
